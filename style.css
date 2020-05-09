@@ -109,7 +109,6 @@ footer h3 {
   margin-bottom: 0;
 }
 
-/* Screen Sizes 500px and Up */
 @media (min-width: 500px) {
   #landing {
     display: flex;
@@ -125,7 +124,6 @@ footer h3 {
   }
 }
 
-/* Screen Sizes 700px and Up */
 @media (min-width: 700px) {
   .btn {
     padding: 1rem 3rem;
